@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bnpR6mSp5Oo=",
+  "dgSpecHash": "cJiL+A8KxCM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jaggu\\Desktop\\PortFolio\\AjayPandenaPortfolio.csproj",
+  "projectFilePath": "C:\\Users\\jaggu\\Desktop\\MyPortfolio\\AjayPandenaPortfolio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jaggu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\jaggu\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

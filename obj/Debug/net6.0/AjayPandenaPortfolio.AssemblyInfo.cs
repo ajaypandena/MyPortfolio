@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AjayPandenaPortfolio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce1d0462b3b308c4023ffd8755247b433602d400")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03c0e223998aa8d8add7176823d94ce01ece1f70")]
 [assembly: System.Reflection.AssemblyProductAttribute("AjayPandenaPortfolio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AjayPandenaPortfolio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

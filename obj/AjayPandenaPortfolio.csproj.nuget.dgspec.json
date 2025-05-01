@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jaggu\\Desktop\\PortFolio\\AjayPandenaPortfolio.csproj": {}
+    "C:\\Users\\jaggu\\Desktop\\MyPortfolio\\AjayPandenaPortfolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jaggu\\Desktop\\PortFolio\\AjayPandenaPortfolio.csproj": {
+    "C:\\Users\\jaggu\\Desktop\\MyPortfolio\\AjayPandenaPortfolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jaggu\\Desktop\\PortFolio\\AjayPandenaPortfolio.csproj",
+        "projectUniqueName": "C:\\Users\\jaggu\\Desktop\\MyPortfolio\\AjayPandenaPortfolio.csproj",
         "projectName": "AjayPandenaPortfolio",
-        "projectPath": "C:\\Users\\jaggu\\Desktop\\PortFolio\\AjayPandenaPortfolio.csproj",
+        "projectPath": "C:\\Users\\jaggu\\Desktop\\MyPortfolio\\AjayPandenaPortfolio.csproj",
         "packagesPath": "C:\\Users\\jaggu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jaggu\\Desktop\\PortFolio\\obj\\",
+        "outputPath": "C:\\Users\\jaggu\\Desktop\\MyPortfolio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
