@@ -1,0 +1,7 @@
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\obj\Release\net6.0\PubTmp\Out\AjayPandenaPortfolio.exe
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\obj\Release\net6.0\PubTmp\Out\AjayPandenaPortfolio.dll
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\obj\Release\net6.0\PubTmp\Out\AjayPandenaPortfolio.deps.json
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\obj\Release\net6.0\PubTmp\Out\AjayPandenaPortfolio.runtimeconfig.json
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\obj\Release\net6.0\PubTmp\Out\AjayPandenaPortfolio.pdb

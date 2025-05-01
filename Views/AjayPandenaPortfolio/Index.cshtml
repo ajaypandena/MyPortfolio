@@ -1,0 +1,160 @@
+﻿@model AjayPandenaPortfolio.Models.PortfolioModel
+
+<div class="container mt-5">
+
+    <h1 style="color: darkblue; font-family: Arial; text-align: center;">
+        <img src="~/images/AJ.png" alt="AJ" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 10px;" />
+        <span class="multi-color-blinking">@Model.Name</span>
+        @Model.Surname
+    </h1>
+
+
+    <p style="font-family: Arial; text-align: center;">@Model.Bio</p>
+    <p>
+        <div style="text-align: center; margin-top: 20px;">
+            <a href="https://github.com/ajaypandena" target="_blank" class="btn btn-dark me-2">
+                <i class="fab fa-github"></i> 
+            </a>
+            <a href="https://www.linkedin.com/in/ajay-pandena-907013302/" target="_blank" class="btn btn-primary">
+                <i class="fab fa-linkedin"></i> 
+            </a>
+        </div>
+
+    </p><br />
+
+    <div style="text-align: center; margin-top: 20px;">
+        <a href="~/path-to-your-resume/resume.pdf" target="_blank" style="text-decoration: none;">
+            <button class="btn btn-outline-primary" style="
+            font-weight: bold;
+            padding: 10px 25px;
+            border-radius: 30px;
+            font-size: 1rem;
+            box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease;">
+                <i class="fas fa-eye" style="margin-right: 8px;"></i> View Resume
+            </button>
+        </a>
+    </div>
+    <br />
+
+
+   @*  <h2>Skills</h2>
+    <ul>
+        @foreach (var skill in Model.Skills)
+
+        {
+            <li>@skill</li>
+        }
+    </ul> *@
+
+    <h2 style="color: #3366cc; font-weight: bold; text-align: center;"> <i class="fas fa-rocket" style="margin-right: 8px; color: #e67e22;"></i>  Skills</h2>
+    <div class="scrolling-text">
+        @foreach (var skill in Model.Skills)
+
+        {
+            <span style="margin-right: 10px;">
+                <i class="fas fa-check-circle" style="color: green;"></i> @skill
+            </span>
+        }
+    </div>
+    <br>
+
+    <br>
+
+    <h2 class="section-title" style="color: #3366cc; text-align: center;"> <i class="fas fa-laptop-code" style="margin-right: 8px; color: #e67e22;"></i> Projects</h2>
+
+    <div class="project-list" style="font-size: 0.8em;">
+        @foreach (var project in Model.Projects)
+
+        {
+            <div class="project-card">
+                <p style="font-weight: bold; color: #444; margin-bottom: 6px;">
+                    @project.Title
+                </p>
+                <a href="@project.Url" target="_blank" class="unauthorized-link">
+                    <span style="font-weight: normal; color: #666;">@project.Description</span> 🔗 View Project
+                </a>
+            </div>
+        }
+    </div>
+
+    <script>
+        // Intercept all clicks on links with the 'unauthorized-link' class
+        document.querySelectorAll('.unauthorized-link').forEach(function(link) {
+            link.addEventListener('click', function(event) {
+                event.preventDefault(); // Prevent the default action (opening the link)
+                alert('Unauthorized to view this project.');
+            });
+        });
+    </script>
+
+
+
+
+  @*   <div class="project-list" style="font-size: 0.8em;">
+        @foreach (var project in Model.Projects)
+
+        {
+            <div class="project-card">
+                <p style="font-weight: bold; color: #444; margin-bottom: 6px;">
+                    @project.Title
+                </p>
+                <a href="@project.Url" target="_blank">
+                    <span style="font-weight: normal; color: #666;">@project.Description</span> 🔗 View Project
+                </a>
+            </div>
+        }
+    </div> *@
+
+
+
+
+  @*   <h2 style ="color: #3366cc;">Projects</h2>
+    <ul>
+        @foreach (var project in Model.Projects)
+
+        {
+            <li>
+                <strong>@project.Title</strong> - @project.Description<br />
+                <a href="@project.Url" target="_blank">View Project</a>
+            </li>
+        }
+    </ul> *@
+    <br>
+    <h2 style="color: #3366cc; text-align: center; margin-bottom: 16px;"> <i class="fas fa-globe" style="margin-right: 8px; color: #e67e22;"></i>   Contact</h2>
+
+    <p style="font-weight: bold; color: #444; text-align: center;">
+        <i class="fas fa-envelope" style="margin-right: 8px; color: #e67e22;"></i> Email: <a class="pulsing" href="mailto:@Model.Email" style="color: #3366cc; text-decoration: none;">
+            @Model.Email
+        </a><br>
+        @* <i class="fas fa-phone-alt" style="margin-right: 8px; color: #e67e22;"></i> Mobile: <span class="pulsing" style="color: #3366cc;">@Model.MobileNumber</span> *@
+        <i class="fas fa-phone-alt" style="margin-right: 8px; color: #e67e22;"></i>
+        Mobile:
+        <span class="mobile-container" style="color: #3366cc;">
+            <span class="masked">••••••••••</span>
+            <span class="real">@Model.MobileNumber</span>
+        </span>
+
+        <style>
+            .mobile-container {
+                position: relative;
+                cursor: pointer;
+            }
+
+                .mobile-container .real {
+                    display: none;
+                }
+
+                .mobile-container:hover .masked {
+                    display: none;
+                }
+
+                .mobile-container:hover .real {
+                    display: inline;
+                }
+        </style>
+
+
+    </p>
+
+</div>

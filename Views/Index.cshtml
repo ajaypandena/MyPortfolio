@@ -1,0 +1,29 @@
+﻿@model AjayPandenaPortfolio.Models.PortfolioModel
+
+<div class="container mt-5">
+    <h1>@Model.Name</h1>
+    <p>@Model.Bio</p>
+
+    <h2>Skills</h2>
+    <ul>
+        @foreach (var skill in Model.Skills)
+        {
+            <li>@skill</li>
+        }
+    </ul>
+
+    <h2>Projects</h2>
+    <ul>
+        @foreach (var project in Model.Projects)
+        {
+            <li>
+                <strong>@project.Title</strong> - @project.Description
+                <br />
+                <a href="@project.Url" target="_blank">View Project</a>
+            </li>
+        }
+    </ul>
+
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:@Model.Email">@Model.Email</a></p>
+</div>

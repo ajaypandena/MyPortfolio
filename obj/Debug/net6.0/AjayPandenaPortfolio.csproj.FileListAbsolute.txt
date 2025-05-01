@@ -1,0 +1,185 @@
+C:\Users\Ajay.Pandena\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajay.Pandena\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.AssemblyInfoInputs.cache
+C:\Users\Ajay.Pandena\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.AssemblyInfo.cs
+C:\Users\Ajay.Pandena\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.csproj.CoreCompileInputs.cache
+C:\Users\Ajay.Pandena\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ajay.Pandena\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.RazorAssemblyInfo.cache
+C:\Users\Ajay.Pandena\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.RazorAssemblyInfo.cs
+C:\Users\Ajay.Pandena\Desktop\AjayPandenaPortfolio\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ajay.Pandena\Desktop\AjayPandenaPortfolio\bin\Debug\net6.0\appsettings.json
+C:\Users\Ajay.Pandena\Desktop\AjayPandenaPortfolio\bin\Debug\net6.0\AjayPandenaPortfolio.staticwebassets.runtime.json
+C:\Users\Ajay.Pandena\Desktop\AjayPandenaPortfolio\bin\Debug\net6.0\AjayPandenaPortfolio.exe
+C:\Users\Ajay.Pandena\Desktop\AjayPandenaPortfolio\bin\Debug\net6.0\AjayPandenaPortfolio.deps.json
+C:\Users\Ajay.Pandena\Desktop\AjayPandenaPortfolio\bin\Debug\net6.0\AjayPandenaPortfolio.runtimeconfig.json
+C:\Users\Ajay.Pandena\Desktop\AjayPandenaPortfolio\bin\Debug\net6.0\AjayPandenaPortfolio.dll
+C:\Users\Ajay.Pandena\Desktop\AjayPandenaPortfolio\bin\Debug\net6.0\AjayPandenaPortfolio.pdb
+C:\Users\Ajay.Pandena\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets\msbuild.AjayPandenaPortfolio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ajay.Pandena\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets\msbuild.build.AjayPandenaPortfolio.props
+C:\Users\Ajay.Pandena\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AjayPandenaPortfolio.props
+C:\Users\Ajay.Pandena\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AjayPandenaPortfolio.props
+C:\Users\Ajay.Pandena\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ajay.Pandena\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ajay.Pandena\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ajay.Pandena\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ajay.Pandena\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\scopedcss\bundle\AjayPandenaPortfolio.styles.css
+C:\Users\Ajay.Pandena\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\scopedcss\projectbundle\AjayPandenaPortfolio.bundle.scp.css
+C:\Users\Ajay.Pandena\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.dll
+C:\Users\Ajay.Pandena\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\refint\AjayPandenaPortfolio.dll
+C:\Users\Ajay.Pandena\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.pdb
+C:\Users\Ajay.Pandena\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.genruntimeconfig.cache
+C:\Users\Ajay.Pandena\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\ref\AjayPandenaPortfolio.dll
+C:\Users\jaggu\Downloads\Compressed\AjayPandenaPortfolio-20250429T172531Z-001\AjayPandenaPortfolio\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jaggu\Downloads\Compressed\AjayPandenaPortfolio-20250429T172531Z-001\AjayPandenaPortfolio\bin\Debug\net6.0\appsettings.json
+C:\Users\jaggu\Downloads\Compressed\AjayPandenaPortfolio-20250429T172531Z-001\AjayPandenaPortfolio\bin\Debug\net6.0\AjayPandenaPortfolio.staticwebassets.runtime.json
+C:\Users\jaggu\Downloads\Compressed\AjayPandenaPortfolio-20250429T172531Z-001\AjayPandenaPortfolio\bin\Debug\net6.0\AjayPandenaPortfolio.exe
+C:\Users\jaggu\Downloads\Compressed\AjayPandenaPortfolio-20250429T172531Z-001\AjayPandenaPortfolio\bin\Debug\net6.0\AjayPandenaPortfolio.deps.json
+C:\Users\jaggu\Downloads\Compressed\AjayPandenaPortfolio-20250429T172531Z-001\AjayPandenaPortfolio\bin\Debug\net6.0\AjayPandenaPortfolio.runtimeconfig.json
+C:\Users\jaggu\Downloads\Compressed\AjayPandenaPortfolio-20250429T172531Z-001\AjayPandenaPortfolio\bin\Debug\net6.0\AjayPandenaPortfolio.dll
+C:\Users\jaggu\Downloads\Compressed\AjayPandenaPortfolio-20250429T172531Z-001\AjayPandenaPortfolio\bin\Debug\net6.0\AjayPandenaPortfolio.pdb
+C:\Users\jaggu\Downloads\Compressed\AjayPandenaPortfolio-20250429T172531Z-001\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaggu\Downloads\Compressed\AjayPandenaPortfolio-20250429T172531Z-001\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.AssemblyInfoInputs.cache
+C:\Users\jaggu\Downloads\Compressed\AjayPandenaPortfolio-20250429T172531Z-001\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.AssemblyInfo.cs
+C:\Users\jaggu\Downloads\Compressed\AjayPandenaPortfolio-20250429T172531Z-001\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.csproj.CoreCompileInputs.cache
+C:\Users\jaggu\Downloads\Compressed\AjayPandenaPortfolio-20250429T172531Z-001\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jaggu\Downloads\Compressed\AjayPandenaPortfolio-20250429T172531Z-001\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.RazorAssemblyInfo.cache
+C:\Users\jaggu\Downloads\Compressed\AjayPandenaPortfolio-20250429T172531Z-001\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.RazorAssemblyInfo.cs
+C:\Users\jaggu\Downloads\Compressed\AjayPandenaPortfolio-20250429T172531Z-001\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jaggu\Downloads\Compressed\AjayPandenaPortfolio-20250429T172531Z-001\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jaggu\Downloads\Compressed\AjayPandenaPortfolio-20250429T172531Z-001\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets\msbuild.AjayPandenaPortfolio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jaggu\Downloads\Compressed\AjayPandenaPortfolio-20250429T172531Z-001\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets\msbuild.build.AjayPandenaPortfolio.props
+C:\Users\jaggu\Downloads\Compressed\AjayPandenaPortfolio-20250429T172531Z-001\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AjayPandenaPortfolio.props
+C:\Users\jaggu\Downloads\Compressed\AjayPandenaPortfolio-20250429T172531Z-001\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AjayPandenaPortfolio.props
+C:\Users\jaggu\Downloads\Compressed\AjayPandenaPortfolio-20250429T172531Z-001\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jaggu\Downloads\Compressed\AjayPandenaPortfolio-20250429T172531Z-001\AjayPandenaPortfolio\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jaggu\Downloads\Compressed\AjayPandenaPortfolio-20250429T172531Z-001\AjayPandenaPortfolio\obj\Debug\net6.0\scopedcss\bundle\AjayPandenaPortfolio.styles.css
+C:\Users\jaggu\Downloads\Compressed\AjayPandenaPortfolio-20250429T172531Z-001\AjayPandenaPortfolio\obj\Debug\net6.0\scopedcss\projectbundle\AjayPandenaPortfolio.bundle.scp.css
+C:\Users\jaggu\Downloads\Compressed\AjayPandenaPortfolio-20250429T172531Z-001\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.dll
+C:\Users\jaggu\Downloads\Compressed\AjayPandenaPortfolio-20250429T172531Z-001\AjayPandenaPortfolio\obj\Debug\net6.0\refint\AjayPandenaPortfolio.dll
+C:\Users\jaggu\Downloads\Compressed\AjayPandenaPortfolio-20250429T172531Z-001\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.pdb
+C:\Users\jaggu\Downloads\Compressed\AjayPandenaPortfolio-20250429T172531Z-001\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.genruntimeconfig.cache
+C:\Users\jaggu\Downloads\Compressed\AjayPandenaPortfolio-20250429T172531Z-001\AjayPandenaPortfolio\obj\Debug\net6.0\ref\AjayPandenaPortfolio.dll
+C:\Users\jaggu\Desktop\AjayPandenaPortfolio\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jaggu\Desktop\AjayPandenaPortfolio\bin\Debug\net6.0\appsettings.json
+C:\Users\jaggu\Desktop\AjayPandenaPortfolio\bin\Debug\net6.0\AjayPandenaPortfolio.staticwebassets.runtime.json
+C:\Users\jaggu\Desktop\AjayPandenaPortfolio\bin\Debug\net6.0\AjayPandenaPortfolio.exe
+C:\Users\jaggu\Desktop\AjayPandenaPortfolio\bin\Debug\net6.0\AjayPandenaPortfolio.deps.json
+C:\Users\jaggu\Desktop\AjayPandenaPortfolio\bin\Debug\net6.0\AjayPandenaPortfolio.runtimeconfig.json
+C:\Users\jaggu\Desktop\AjayPandenaPortfolio\bin\Debug\net6.0\AjayPandenaPortfolio.dll
+C:\Users\jaggu\Desktop\AjayPandenaPortfolio\bin\Debug\net6.0\AjayPandenaPortfolio.pdb
+C:\Users\jaggu\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaggu\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.AssemblyInfoInputs.cache
+C:\Users\jaggu\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.AssemblyInfo.cs
+C:\Users\jaggu\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.csproj.CoreCompileInputs.cache
+C:\Users\jaggu\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jaggu\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.RazorAssemblyInfo.cache
+C:\Users\jaggu\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.RazorAssemblyInfo.cs
+C:\Users\jaggu\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jaggu\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jaggu\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets\msbuild.AjayPandenaPortfolio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jaggu\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets\msbuild.build.AjayPandenaPortfolio.props
+C:\Users\jaggu\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AjayPandenaPortfolio.props
+C:\Users\jaggu\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AjayPandenaPortfolio.props
+C:\Users\jaggu\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jaggu\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jaggu\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\scopedcss\bundle\AjayPandenaPortfolio.styles.css
+C:\Users\jaggu\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\scopedcss\projectbundle\AjayPandenaPortfolio.bundle.scp.css
+C:\Users\jaggu\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.dll
+C:\Users\jaggu\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\refint\AjayPandenaPortfolio.dll
+C:\Users\jaggu\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.pdb
+C:\Users\jaggu\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.genruntimeconfig.cache
+C:\Users\jaggu\Desktop\AjayPandenaPortfolio\obj\Debug\net6.0\ref\AjayPandenaPortfolio.dll
+C:\Users\jaggu\Desktop\New folder\AjayPandenaPortfolio\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jaggu\Desktop\New folder\AjayPandenaPortfolio\bin\Debug\net6.0\appsettings.json
+C:\Users\jaggu\Desktop\New folder\AjayPandenaPortfolio\bin\Debug\net6.0\AjayPandenaPortfolio.staticwebassets.runtime.json
+C:\Users\jaggu\Desktop\New folder\AjayPandenaPortfolio\bin\Debug\net6.0\AjayPandenaPortfolio.exe
+C:\Users\jaggu\Desktop\New folder\AjayPandenaPortfolio\bin\Debug\net6.0\AjayPandenaPortfolio.deps.json
+C:\Users\jaggu\Desktop\New folder\AjayPandenaPortfolio\bin\Debug\net6.0\AjayPandenaPortfolio.runtimeconfig.json
+C:\Users\jaggu\Desktop\New folder\AjayPandenaPortfolio\bin\Debug\net6.0\AjayPandenaPortfolio.dll
+C:\Users\jaggu\Desktop\New folder\AjayPandenaPortfolio\bin\Debug\net6.0\AjayPandenaPortfolio.pdb
+C:\Users\jaggu\Desktop\New folder\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaggu\Desktop\New folder\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.AssemblyInfoInputs.cache
+C:\Users\jaggu\Desktop\New folder\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.AssemblyInfo.cs
+C:\Users\jaggu\Desktop\New folder\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.csproj.CoreCompileInputs.cache
+C:\Users\jaggu\Desktop\New folder\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jaggu\Desktop\New folder\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.RazorAssemblyInfo.cache
+C:\Users\jaggu\Desktop\New folder\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.RazorAssemblyInfo.cs
+C:\Users\jaggu\Desktop\New folder\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jaggu\Desktop\New folder\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jaggu\Desktop\New folder\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets\msbuild.AjayPandenaPortfolio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jaggu\Desktop\New folder\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets\msbuild.build.AjayPandenaPortfolio.props
+C:\Users\jaggu\Desktop\New folder\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AjayPandenaPortfolio.props
+C:\Users\jaggu\Desktop\New folder\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AjayPandenaPortfolio.props
+C:\Users\jaggu\Desktop\New folder\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jaggu\Desktop\New folder\AjayPandenaPortfolio\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jaggu\Desktop\New folder\AjayPandenaPortfolio\obj\Debug\net6.0\scopedcss\bundle\AjayPandenaPortfolio.styles.css
+C:\Users\jaggu\Desktop\New folder\AjayPandenaPortfolio\obj\Debug\net6.0\scopedcss\projectbundle\AjayPandenaPortfolio.bundle.scp.css
+C:\Users\jaggu\Desktop\New folder\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.dll
+C:\Users\jaggu\Desktop\New folder\AjayPandenaPortfolio\obj\Debug\net6.0\refint\AjayPandenaPortfolio.dll
+C:\Users\jaggu\Desktop\New folder\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.pdb
+C:\Users\jaggu\Desktop\New folder\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.genruntimeconfig.cache
+C:\Users\jaggu\Desktop\New folder\AjayPandenaPortfolio\obj\Debug\net6.0\ref\AjayPandenaPortfolio.dll
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\bin\Debug\net6.0\appsettings.json
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\bin\Debug\net6.0\AjayPandenaPortfolio.staticwebassets.runtime.json
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\bin\Debug\net6.0\AjayPandenaPortfolio.exe
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\bin\Debug\net6.0\AjayPandenaPortfolio.deps.json
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\bin\Debug\net6.0\AjayPandenaPortfolio.runtimeconfig.json
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\bin\Debug\net6.0\AjayPandenaPortfolio.dll
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\bin\Debug\net6.0\AjayPandenaPortfolio.pdb
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.AssemblyInfoInputs.cache
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.AssemblyInfo.cs
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.csproj.CoreCompileInputs.cache
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.RazorAssemblyInfo.cache
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.RazorAssemblyInfo.cs
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.sourcelink.json
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets\msbuild.AjayPandenaPortfolio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets\msbuild.build.AjayPandenaPortfolio.props
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AjayPandenaPortfolio.props
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AjayPandenaPortfolio.props
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\obj\Debug\net6.0\scopedcss\bundle\AjayPandenaPortfolio.styles.css
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\obj\Debug\net6.0\scopedcss\projectbundle\AjayPandenaPortfolio.bundle.scp.css
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.dll
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\obj\Debug\net6.0\refint\AjayPandenaPortfolio.dll
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.pdb
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\obj\Debug\net6.0\AjayPandenaPortfolio.genruntimeconfig.cache
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\obj\Debug\net6.0\ref\AjayPandenaPortfolio.dll
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\bin\Debug\net6.0\AjayPandenaPortfolio.staticwebassets.endpoints.json
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\jaggu\Desktop\PortFolio\AjayPandenaPortfolio\obj\Debug\net6.0\staticwebassets\msbuild.AjayPandenaPortfolio.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\jaggu\Desktop\PortFolio\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jaggu\Desktop\PortFolio\bin\Debug\net6.0\appsettings.json
+C:\Users\jaggu\Desktop\PortFolio\bin\Debug\net6.0\AjayPandenaPortfolio.staticwebassets.runtime.json
+C:\Users\jaggu\Desktop\PortFolio\bin\Debug\net6.0\AjayPandenaPortfolio.exe
+C:\Users\jaggu\Desktop\PortFolio\bin\Debug\net6.0\AjayPandenaPortfolio.deps.json
+C:\Users\jaggu\Desktop\PortFolio\bin\Debug\net6.0\AjayPandenaPortfolio.runtimeconfig.json
+C:\Users\jaggu\Desktop\PortFolio\bin\Debug\net6.0\AjayPandenaPortfolio.dll
+C:\Users\jaggu\Desktop\PortFolio\bin\Debug\net6.0\AjayPandenaPortfolio.pdb
+C:\Users\jaggu\Desktop\PortFolio\obj\Debug\net6.0\AjayPandenaPortfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaggu\Desktop\PortFolio\obj\Debug\net6.0\AjayPandenaPortfolio.AssemblyInfoInputs.cache
+C:\Users\jaggu\Desktop\PortFolio\obj\Debug\net6.0\AjayPandenaPortfolio.AssemblyInfo.cs
+C:\Users\jaggu\Desktop\PortFolio\obj\Debug\net6.0\AjayPandenaPortfolio.csproj.CoreCompileInputs.cache
+C:\Users\jaggu\Desktop\PortFolio\obj\Debug\net6.0\AjayPandenaPortfolio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jaggu\Desktop\PortFolio\obj\Debug\net6.0\AjayPandenaPortfolio.RazorAssemblyInfo.cache
+C:\Users\jaggu\Desktop\PortFolio\obj\Debug\net6.0\AjayPandenaPortfolio.RazorAssemblyInfo.cs
+C:\Users\jaggu\Desktop\PortFolio\obj\Debug\net6.0\AjayPandenaPortfolio.sourcelink.json
+C:\Users\jaggu\Desktop\PortFolio\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jaggu\Desktop\PortFolio\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jaggu\Desktop\PortFolio\obj\Debug\net6.0\staticwebassets\msbuild.AjayPandenaPortfolio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jaggu\Desktop\PortFolio\obj\Debug\net6.0\staticwebassets\msbuild.build.AjayPandenaPortfolio.props
+C:\Users\jaggu\Desktop\PortFolio\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AjayPandenaPortfolio.props
+C:\Users\jaggu\Desktop\PortFolio\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AjayPandenaPortfolio.props
+C:\Users\jaggu\Desktop\PortFolio\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jaggu\Desktop\PortFolio\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jaggu\Desktop\PortFolio\obj\Debug\net6.0\scopedcss\bundle\AjayPandenaPortfolio.styles.css
+C:\Users\jaggu\Desktop\PortFolio\obj\Debug\net6.0\scopedcss\projectbundle\AjayPandenaPortfolio.bundle.scp.css
+C:\Users\jaggu\Desktop\PortFolio\obj\Debug\net6.0\AjayPandenaPortfolio.dll
+C:\Users\jaggu\Desktop\PortFolio\obj\Debug\net6.0\refint\AjayPandenaPortfolio.dll
+C:\Users\jaggu\Desktop\PortFolio\obj\Debug\net6.0\AjayPandenaPortfolio.pdb
+C:\Users\jaggu\Desktop\PortFolio\obj\Debug\net6.0\AjayPandenaPortfolio.genruntimeconfig.cache
+C:\Users\jaggu\Desktop\PortFolio\obj\Debug\net6.0\ref\AjayPandenaPortfolio.dll
